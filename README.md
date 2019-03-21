@@ -7,7 +7,7 @@
 - Independent Component Analysis (ICA)
 - Radial Basis Function Networksv(RBFN) and Genetic Algorithms
 
-## Tasks
+## Report
 - Hopfield-Boltzmann Machine
 - ICA Image Seperation
 - PCA 
