@@ -1,4 +1,4 @@
-# Neural-Networks-Coursework
+# Neural-Networks-Coursework (Matlab)
 
 ## Labs
 - Back Propogation Multilayer perceptron
